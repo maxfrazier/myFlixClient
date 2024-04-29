@@ -1,0 +1,13 @@
+$primary: #f96167;
+$body-bg: snow;
+
+@import "~bootstrap/scss/bootstrap.scss";
+
+.navbar-custom {
+    background-color: #f96167;
+    width: 100%;
+}
+
+.navbar-custom .navbar-brand {
+    color: white;
+}
